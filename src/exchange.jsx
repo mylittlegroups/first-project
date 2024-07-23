@@ -22,6 +22,7 @@ const ExchangePage = () => {
                     <img src="./src/assets/bear.png" alt="" />
                 </button>
             </div>
+            <p>Behruz Hello</p>
         </div>
     )
 }
